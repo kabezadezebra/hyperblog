@@ -6,3 +6,5 @@ alteracion
 225 mm
 
 70 kg
+
+main 1
